@@ -13,13 +13,13 @@ A multi-directional lighting solution capable of adjusting illumination in respo
 
 ---
 
-## Design Statement
+## 💡Design Statement
 
 To design a multi-directional lighting solution capable of adjusting illumination in response to the number and character of individuals, enhancing ease and engagement in group activities, such as board games or brainstorming sessions.
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Technologies & Tools
 
 - Fusion 360 (CAD Modeling)
 - Keyshot (Rendering)
